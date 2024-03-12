@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1710227891 source:c:\users\outo\desktop\projects\ws-codeblocks\listavetorc\vetor01.c
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+
